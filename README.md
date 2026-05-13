@@ -42,8 +42,11 @@
 
 ## 文件结构
 ├── data/ 原始数据
+
 ├── code/ Python 分析代码
+
 ├── result/ 图表、Excel 结果
+
 └── README.md 项目说明
 
 ## 使用方法
